@@ -1,7 +1,7 @@
 # Experiment 8: Reproducing an Image Using Prompts for Image Generation
 
 
-Reg No: 212222060053
+Reg No: 212223240175
 
 ## Aim:
 
@@ -45,11 +45,15 @@ Refine the prompt further by adding specific instructions about elements like te
 - "A serene landscape during sunset with purple mountains, a calm river reflecting the colors of the sky, a few trees along the shore, and soft, pastel tones in the clouds."
 
 ### 6. ** AI Generated Image:**
-##### Prompt: *"A robot(full body view) painting a portrait nearby a green valley"* Generated with Runway AI
-![image](https://github.com/user-attachments/assets/5396188b-500c-47f6-ba1f-ccb53de43d2f)
+##### Prompt: *"Create a realistic image of a men with the tailored black suit, wearing round hat, silver watch, and bland tie on his shirt. Walking down from an old english building (Britain) through the old britain bridge. Now add this effects too, add the dark sky (which is happen during the before rain), And the building should BLAST"
+![men in black](https://github.com/user-attachments/assets/526893c1-9879-4cbb-a3b7-478cef43d68d)
 
-##### Prompt: *"A little boy entering into a new world of his dream"* Generated with Midjourney
-![KEERTHI_VASAN_A_2Discovering_a_strange_portal_that_transports_th_f98bb0a4-6c92-405b-b965-36377cf264ca](https://github.com/user-attachments/assets/bfa0724f-f29d-4392-91a1-4eb28c5b9389)
+
+
+##### Prompt: *"create an ai image of a warrior  with a black armor covered his body holding a arming sword horizontally,His face expression should be like stern, focused, or intense look, such as a scowl or frowning to convey seriousness, determination, or anger.In background there should be many warriors riding on a horse with there armor and face covered ,the background should be blurred and the sky should be dark and arrogant"
+![warrior](https://github.com/user-attachments/assets/8ea84e45-e3bf-40fc-88d0-24d15f9a802e)
+
+ "
 
 
 
